@@ -1,0 +1,1 @@
+In this assignment a graph was used to solve a maze.  A graph ADT was first implemetted in order to provide methods to solve the maze and a vertex class was created to construct the maze.  Once constructed the driver function solves the maze and then demonstrates how it is solved.
